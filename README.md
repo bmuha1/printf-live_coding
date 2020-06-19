@@ -6,7 +6,7 @@ The printf project is the first challenging pair project completed by students a
 
 This simplified version of the project was live coded for Holberton School students on October 30, 2019. Before the live coding, we had a discussion on software architecture and the benefits of using function pointers rather than a switch statement.
 
-The 18-minute video is available here: [https://www.youtube.com/watch?v=oqLbyqByDJc](https://www.youtube.com/watch?v=oqLbyqByDJc)
+The 18-minute video is available here: [https://www.youtube.com/watch?v=ZldlsOjvlUA](https://www.youtube.com/watch?v=ZldlsOjvlUA)
 
 ## Requirements
 
